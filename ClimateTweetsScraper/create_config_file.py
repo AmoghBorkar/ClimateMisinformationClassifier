@@ -2,10 +2,10 @@
 import yaml
 
 # Define the parameters - create a twitter developer account, create an app and get the keys below.
-consumer_key = "imwwBvIp5DrwbClQLijnMGeXq"
-consumer_secret = "ht7OvV6OPJKWhWtTqXHNYmIOZC0pdtbP737KeTnEwqs2IQK8Tv"
-access_key = "918078988156882944-CYvS6B9rHsigH9IG1xOAUGWJ5kKjuyX"
-access_secret = "d6Ff4xFw2I2Vjj8Cv4dutdnf9aoEgC5hOIqRMrFtF0yIC"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 
 # Use this to define the box for country - https://gist.github.com/graydon/11198540
