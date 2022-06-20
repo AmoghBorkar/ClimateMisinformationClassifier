@@ -12,8 +12,8 @@ access_secret = ""
 # bounding_box = [-7.57216793459, 49.959999905, 1.68153079591, 58.6350001085]
 bounding_box = [-179.903322, -58.747096, 177.609363, 74.279311]
 # GEBOX_Indonesia = [05.82,-6.68,119.86,-4.76]
-JSON_FILE_PATH = "C:\\Users\\amogh\\OneDrive\\Desktop\\Work\\ProjectsGIT\\ClimateMisinformationClassifier\\Data\\JSON"
-CSV_FILE_PATH = "C:\\Users\\amogh\\OneDrive\\Desktop\\Work\\ProjectsGIT\\ClimateMisinformationClassifier\\Data\\CSV"
+JSON_FILE_PATH = "./Data/JSON"
+CSV_FILE_PATH = "./Data/CSV"
 
 
 # Create the YAML file
