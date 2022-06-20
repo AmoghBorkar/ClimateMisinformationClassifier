@@ -5,4 +5,4 @@
 *.yaml
 
 # Ignore the file create_config_file.py while committing since it has credentials.
-\ClimateTweetsScraper\create_config_file.py
+ClimateTweetsScraper\create_config_file.py
